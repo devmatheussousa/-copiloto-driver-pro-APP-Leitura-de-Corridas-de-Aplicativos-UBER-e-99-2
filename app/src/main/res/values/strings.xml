@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ninja Go</string>
+    <string name="accessibility_service_label">Ninja Go — leitura de ofertas</string>
+    <string name="accessibility_service_description">Usado somente para identificar texto de ofertas de corrida exibidas na tela dos apps de transporte autorizados (Uber/99) e calcular os indicadores do Ninja Go. O conteúdo lido permanece no aparelho, não é enviado a servidores e não é usado para tocar, clicar ou aceitar/recusar corridas automaticamente.</string>
+    <string name="overlay_channel_name">Painel flutuante</string>
+    <string name="overlay_notification_title">Ninja Go ativo</string>
+    <string name="overlay_notification_text">Painel flutuante em execução</string>
+    <string name="capture_channel_name">Captura de tela para análise</string>
+    <string name="capture_notification_title">Captura de oferta ativa</string>
+    <string name="capture_notification_text">Salva prints da oferta quando o Copiloto detecta uma corrida</string>
+</resources>

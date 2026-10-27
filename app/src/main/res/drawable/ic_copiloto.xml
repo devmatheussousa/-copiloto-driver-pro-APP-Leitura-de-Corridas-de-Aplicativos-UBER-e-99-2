@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícone original do Copiloto Driver Pro: seta de navegação estilizada -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#0A1222"
+        android:pathData="M24,24m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0" />
+    <path
+        android:fillColor="#FECA07"
+        android:pathData="M24,10L34,36L24,30L14,36Z" />
+    <path
+        android:fillColor="#39D98A"
+        android:pathData="M24,13.5L24,29L21.5,30.2Z" />
+</vector>
